@@ -16,5 +16,5 @@ Analyze global mining distribution to identify key trends in commodities, mine s
 👉 [View Dashboard](https://lookerstudio.google.com/reporting/a82fc43a-4c02-425d-a45a-99d516fffb4e)
 
 ## 📂 Files 
-- `sql/`: SQL queries used  
+- [`sql/mineral-ores.sql`](./sql/mineral-ores.sql): SQL queries used  
 - `dashboard/`: Screenshots + link  
